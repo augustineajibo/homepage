@@ -1,2 +1,2 @@
 # Robots_EnvirConserv
-Responsible waste management and disposal practices through a robot-championed campaign
+This project seeks to promote responsible waste management and disposal practices through a robot-championed campaign program on university campuses and communities. Through this study, we aim to advance a healthy and safer society, inspire, and promote research in Artificial Intelligence (AI) and Human-Robot Collaboration (HCI) for environmental conservation in the continent. We also intend to leverage this solution in promoting cultural values, and lifestyles that foster the conservation of the environment. It is pertinent to mention that research in this domain is currently lagging in the continent and as such this project is timely.
