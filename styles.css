@@ -1,6 +1,38 @@
 body{
-    margin: 0;
-    background: gainsboro;
-    text-align: left;
-
+  background-color:#fff;
+  font-family:"Raleway", Helvetica, sans-serif;
+  margin:0;
 }
+
+ .container{
+   width:80%;
+   margin: auto;
+   overflow: hidden;
+ }
+
+.clr{
+  clear:none;
+}
+
+
+ #navbar{
+   margin:0;
+   float:center
+
+ }
+
+ #navbar ul{
+   padding:0;
+   list-style:none;
+ }
+
+ #navbar li{
+   display:inline-block;
+ }
+
+ #navbar a{
+   color:#00f;
+   text-decoration:none;
+   font-size:18px;
+   padding-right:15px;
+ }
