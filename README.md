@@ -1,2 +1,7 @@
-# Human-Robot Collaboration for Environmental Conservation 
-This project seeks to promote responsible waste management and disposal practices through a robot-championed campaign program on university campuses and communities. Through this study, we aim to advance a healthy and safer society, inspire, and promote research in Artificial Intelligence (AI) and Human-Robot Collaboration (HCI) for environmental conservation in the continent. We also intend to leverage this solution in promoting cultural values, and lifestyles that foster the conservation of the environment. It is pertinent to mention that research in this domain is currently lagging in the continent and as such this project is timely.
+# AJIBO Chieneye Augustine
+This page contains information about Dr. AJIBO Chinenye Augustine, his work history and academic achievemets, research and projects previously undertaken and those currently being executed.
+Please have a great time exploring this page and feel free to contact me for possible collaboration. 
+I am very much open to grants to support the various ideas that I have concived and my ongoing research activites.
+Best regards!
+
+
